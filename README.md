@@ -1,4 +1,4 @@
-# This extension is now deprecated and no longer maintain. Please use our extension [Mailhog](https://github.com/Chassis/MailHog) instead!
+# This extension is now deprecated and no longer maintained. Please use our extension [Mailhog](https://github.com/Chassis/MailHog) instead!
 
 #### Mailcatcher
 A Chassis extension to install and configure
